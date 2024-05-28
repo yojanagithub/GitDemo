@@ -28,4 +28,9 @@ public class AutoSelectiveDropdown {
     public void testgit(){
         System.out.println("testgit");
     }
+
+    @Test
+    public void Branchesss(){
+        System.out.println("Branchesss");
+    }
 }

@@ -32,4 +32,8 @@ public class Assignment {
     public void TestGitfromGitx(){
         System.out.println("TestGitfromGitx");
     }
+    @Test
+    public void Branches(){
+        System.out.println("Branches");
+    }
 }
