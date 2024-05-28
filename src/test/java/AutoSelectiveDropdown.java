@@ -33,4 +33,9 @@ public class AutoSelectiveDropdown {
     public void Branchesss(){
         System.out.println("Branchesss");
     }
+
+    @Test
+    public void aaa(){
+        System.out.println("sdfsdfsd");
+    }
 }
