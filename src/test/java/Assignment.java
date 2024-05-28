@@ -1,6 +1,7 @@
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.testng.annotations.Test;
 
 public class Assignment {
     public static void main(String[] args) {
@@ -21,5 +22,9 @@ public class Assignment {
 
 
 
+    }
+    @Test
+    public void TestforGit(){
+        System.out.println("testforgit");
     }
 }
