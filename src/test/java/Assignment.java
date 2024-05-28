@@ -27,4 +27,9 @@ public class Assignment {
     public void TestforGit(){
         System.out.println("testforgit");
     }
+
+    @Test
+    public void TestGitfromGitx(){
+        System.out.println("TestGitfromGitx");
+    }
 }
